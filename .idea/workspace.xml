@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb0ebae5-30fe-4b18-a795-21dd014c75c3" name="Default Changelist" comment="" />
+    <list default="true" id="bb0ebae5-30fe-4b18-a795-21dd014c75c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dormir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yoda-comendo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yoda.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +34,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\OneDrive\Documentos\GitHub\yoda-pet" />
       <recent name="C:\Users\julia\pet" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\julia\OneDrive\Documentos\GitHub\yoda-pet" />
       <recent name="C:\Users\julia\pet" />
     </key>
@@ -90,35 +97,39 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="198" key="GridCell.Tab.0.bottom" timestamp="1580610682969">
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom" timestamp="1581383270652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1579742001246" />
-    <state width="1515" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580610682969" />
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1581377455871" />
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581383270652" />
     <state width="1200" height="269" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1579866718381" />
-    <state width="1515" height="198" key="GridCell.Tab.0.center" timestamp="1580610682969">
+    <state width="1515" height="198" key="GridCell.Tab.0.center" timestamp="1581383270652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1579742001246" />
-    <state width="1515" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580610682969" />
+    <state width="1515" height="198" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1581377455871" />
+    <state width="1515" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581383270652" />
     <state width="1200" height="269" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1579866718381" />
-    <state width="1515" height="198" key="GridCell.Tab.0.left" timestamp="1580610682969">
+    <state width="1515" height="198" key="GridCell.Tab.0.left" timestamp="1581383270652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1579742001246" />
-    <state width="1515" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580610682969" />
+    <state width="1515" height="198" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1581377455871" />
+    <state width="1515" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581383270652" />
     <state width="1200" height="269" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1579866718380" />
-    <state width="1515" height="198" key="GridCell.Tab.0.right" timestamp="1580610682969">
+    <state width="1515" height="198" key="GridCell.Tab.0.right" timestamp="1581383270652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1579742001246" />
-    <state width="1515" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580610682969" />
+    <state width="1515" height="198" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1581377455871" />
+    <state width="1515" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581383270652" />
     <state width="1200" height="269" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1579866718381" />
-    <state x="586" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1580606067487">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="976" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1580740683983">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="586" y="272" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580606067487" />
-    <state x="976" y="343" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1579866670881" />
+    <state x="586" y="272" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580673767203" />
+    <state x="976" y="343" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1580740683983" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579740711357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

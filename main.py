@@ -13,8 +13,11 @@ barra2 = pygame.image.load('barra1.png')
 fome = pygame.image.load('fome.png')
 energia = pygame.image.load('energia.png')
 comida = pygame.image.load('comida.png')
+dormir = pygame.image.load('dormir.png')
+comendo = pygame.image.load('yoda-comendo.png')
 
 fome_width = 0
+energia_width = 0
 
 def janela():
     # win.blit(bg, (0,0))
@@ -27,8 +30,10 @@ def janela():
     win.blit(barra2, (300, 10))
     win.blit(energia, (320, 30))
     win.blit(comida, (10, 470))
+    win.blit(dormir, (110, 458))
 
     pygame.draw.rect(win, (51, 204, 51), (93, 25, fome_width, 15))
+    pygame.draw.rect(win, (51, 204, 51), (303, 25, energia_width, 15))
 
     pygame.display.update()
 
@@ -49,6 +54,12 @@ while run:
             fome_width = fome_width + 5
         janela()
         print('Alimentado')
+
+    if keys[pygame.K_w]:
+        if energia_width <= 110:
+            energia_width = energia_width + 5
+        janela()
+        print('Descansado')
 
     janela()
 pygame.quit()
